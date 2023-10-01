@@ -38,9 +38,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9152e36ffc8b6928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87a9250e4b403c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b752ba6921bee9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "add12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "add12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "add12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "add12.md"
               }
             }
           }
@@ -167,11 +203,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8e8a1b93f19b207d",
+  "active": "b752ba6921bee9ff",
   "lastOpenFiles": [
-    "test file.md",
+    "add3/add4.md",
+    "무제 파일 2.md",
+    "무제 파일 1.md",
+    "add12.md",
+    "add3",
     "무제 파일.md",
-    "무제 폴더",
+    "test file.md",
     "clone",
     "새 폴더",
     "test"
