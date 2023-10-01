@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e8a1b93f19b207d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test file.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test file.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test file.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -155,9 +167,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b629aa6b775043fc",
+  "active": "8e8a1b93f19b207d",
   "lastOpenFiles": [
     "test file.md",
+    "무제 파일.md",
     "무제 폴더",
     "clone",
     "새 폴더",
