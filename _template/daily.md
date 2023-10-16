@@ -1,0 +1,1 @@
+`Periodic Notes`  ==daily Note 템플릿== 입니다.
